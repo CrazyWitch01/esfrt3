@@ -12,8 +12,8 @@ ScriptedImporter:
   texturedSpriteMeshType: 0
   svgPixelsPerUnit: 100
   gradientResolution: 64
-  alignment: 0
-  customPivot: {x: 0, y: 0}
+  alignment: 9
+  customPivot: {x: 0.27468836, y: 0.09607253}
   generatePhysicsShape: 0
   viewportOptions: 0
   preserveViewport: 0
@@ -39,17 +39,17 @@ ScriptedImporter:
   spriteData:
     TessellationDetail: 0
     SpriteRect:
-      name: 
+      name: Recurso 2Sprite
       originalName: 
-      pivot: {x: 0, y: 0}
-      alignment: 0
+      pivot: {x: 0.27468836, y: 0.09607253}
+      alignment: 9
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 0
-        height: 0
+        width: 70
+        height: 135
       spriteID: 44234229aff12a34091bf49c40cca2bc
     PhysicsOutlines: []
